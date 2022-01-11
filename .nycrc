@@ -1,0 +1,11 @@
+{
+	"include": "src/*",
+	"exclude": [],
+	"all": true,
+	"reporter": [
+		"lcov",
+		"text"
+	],
+	"check-coverage": true,
+	"lines": 80
+}
