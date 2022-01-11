@@ -4,22 +4,20 @@
 
 This project has been created with MVC architecture
 
-In src/index.ts you can find a test because i don't developed an api service
+In init.py you can find a test because i don't developed an api service
 
 # Execution
 
 ```
-npm i
-npm run dev
+python init.py
 ```
 
 # Test execution
 
 ```
-npm run test
-npm run test:coverage
+python test.py
 ```
 
 # Future work
 
-Add api logic, database and swagger
+Add api logic, database
